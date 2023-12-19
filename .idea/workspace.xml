@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4449bf59-232a-49bb-98bb-45e38a2116ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/jupyter_practice_code2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fifth_python_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fifth_python_practice.iml" afterDir="false" />
-    </list>
+    <list default="true" id="4449bf59-232a-49bb-98bb-45e38a2116ca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
