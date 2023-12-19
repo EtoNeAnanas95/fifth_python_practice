@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7667dbdd-c15a-438a-839a-7833729f65e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fifth_python_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fifth_python_practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter_practice_code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter_practice_code.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter_practice_code2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter_practice_code2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/valorant-stats_PALOMALO_SILNO.csv" beforeDir="false" afterPath="$PROJECT_DIR$/valorant-stats_PALOMALO_SILNO.csv" afterDir="false" />
-    </list>
+    <list default="true" id="7667dbdd-c15a-438a-839a-7833729f65e4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
