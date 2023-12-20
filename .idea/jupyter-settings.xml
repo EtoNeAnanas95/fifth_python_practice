@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkName" value="C:\Users\1\AppData\Local\Programs\Python\Python312\python.exe" />
+              <option name="sdkName" value="Python 3.12" />
             </JupyterConnectionParameters>
           </value>
         </entry>
